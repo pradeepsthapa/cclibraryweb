@@ -2,13 +2,38 @@ body{
     margin: 0;
     background-color: #ADD8E6;
 }
-div{
-    text-align: center;
-    margin-left: 1000;
-    background-color: #00bcd4;
-    font-family: 'Poppins', sans-serif;
-}
 
 h1{
     margin-top: 0;
 }
+.headerimage{
+    align-items: center;
+    position: absolute;
+    top: 0px;
+   
+}
+
+.welcome{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size:20px;
+    /* background-color: #00bcd4; */
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+    position: fixed;
+    color: white;
+    top: 30px;left: 0px;right: 0px;
+   
+}
+.ccbc{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.middle-content{
+    height: 1000px;
+    background-color: aqua;
+
+}
+
+
+
